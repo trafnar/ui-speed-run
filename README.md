@@ -3,10 +3,11 @@ Let's learn to build UI faster by doing speed runs.
 
 It started with [this tweet](https://twitter.com/trafnar/status/1691213118989590528) where I asked who can make a todo list UI the fastest. The rules were very loosely specified.
 
-The goal is to see how fast you can build a functional todo list UI. The goal is to learn, not to win. A slower entry might still teach us something. You can choose to add more functionality or styling. I think we will naturally see which entries have the best speed to quality ratio.
+The goal is to see how fast you can build a functional todo list UI (lets do different UIs in the future?). The goal is to learn, not to win. A slower entry might still teach us something. You can choose to add more functionality or styling. I think we will naturally see which entries have the best speed to quality ratio.
+
+I'm most interested in UI code, not full-stack applications, you can of course build a full-stack app, but my main concern is how quickly I can "express" a UI, not build a functioning real word app.
 
 I want to build UI faster, so if someone has a drastically faster way to build this, I want to know what that is!
-
 
 # Contribute a Speed Run
 
