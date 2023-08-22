@@ -44,13 +44,13 @@ These are the first few submissions based on the original tweet, which left it v
 **Pablo ([@paoloricciuti](https://twitter.com/PaoloRicciuti))**
 - Time: ~18m
 - Tech: Svelte
-- [Screencast](https://www.loom.com/share/bb43acc9e7db4950a1392ffc23aa1b61?sid=6f6b3f97-946d-47b7-86a8-b99c3253e5bc)
+- [Narrated Screencast](https://www.loom.com/share/bb43acc9e7db4950a1392ffc23aa1b61?sid=6f6b3f97-946d-47b7-86a8-b99c3253e5bc)
 - [Live](https://www.sveltelab.dev/zxgs57h2maykxti)
 
 **Nathan [@trafnar](https://www.twitter.com/trafnar)**
 - Time: ~20m
 - Tech: Imba
-- [Screencast](https://www.youtube.com/watch?v=FVn29JTQyjg)
+- [Narrated Screencast](https://www.youtube.com/watch?v=FVn29JTQyjg)
 - [Repo](https://github.com/wedeserveless/sppeeedytodo/blob/main/src/App.imba)
 - [Live demo](https://speedy-todo.netlify.app/)
 
