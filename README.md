@@ -34,6 +34,13 @@ Considerations:
 
 These are the first few submissions based on the original tweet, which left it very open to interpretation.
 
+**Antonio ([@sarcevicantonio](https://twitter.com/sarcevicantonio))**
+- Time ~30m
+- Tech: Svelte
+- [Narrated Screencast](https://www.youtube.com/watch?v=lL2c1xMFhDo)
+- [Code](https://github.com/SarcevicAntonio/minimal-todo)
+- [Live](https://minimal-todo-blond.vercel.app/)
+
 **Pablo ([@paoloricciuti](https://twitter.com/PaoloRicciuti))**
 - Time: ~18m
 - Tech: Svelte
